@@ -37,6 +37,6 @@ public class TestController {
     }
 
     public String Seven(){
-        return "006seven";
+        return "sd sd";
     }
 }
