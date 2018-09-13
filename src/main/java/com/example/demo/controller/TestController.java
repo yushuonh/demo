@@ -18,5 +18,9 @@ public class TestController {
     public String tr(){
         return "trceshi";
     }
+    
+    public void tt(){
+        
+    }
 
 }
