@@ -14,6 +14,14 @@ public class TestController {
     public String say(){
         return "yushuo";
     }
+    
+    public String tr(){
+        return "trceshi";
+    }
+    
+    public void tt(){
+        
+    }
 
     public String nihao (){
         return "nihao";
