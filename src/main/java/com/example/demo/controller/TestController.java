@@ -15,4 +15,8 @@ public class TestController {
         return "yushuo";
     }
 
+    public String nihao (){
+        return "nihao";
+    }
+
 }
