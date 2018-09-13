@@ -22,9 +22,13 @@ public class TestController {
     public String three(){
         return "three";
     }
-
+    
     public String four(){
         return "four";
+    }
+
+    public String five(){
+        return "five";
     }
 
 }
