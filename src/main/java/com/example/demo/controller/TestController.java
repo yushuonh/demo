@@ -19,4 +19,8 @@ public class TestController {
         return "nihao";
     }
 
+    public String three(){
+        return "three";
+    }
+
 }
