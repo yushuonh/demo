@@ -23,4 +23,8 @@ public class TestController {
         return "three";
     }
 
+    public String four(){
+        return "four";
+    }
+
 }
