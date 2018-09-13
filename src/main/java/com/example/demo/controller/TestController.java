@@ -35,4 +35,8 @@ public class TestController {
     public String six(){
         return "six";
     }
+
+    public String Seven(){
+        return "006seven";
+    }
 }
