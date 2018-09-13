@@ -22,7 +22,7 @@ public class TestController {
     public String three(){
         return "three";
     }
-    
+
     public String four(){
         return "four";
     }
@@ -31,4 +31,8 @@ public class TestController {
         return "five";
     }
 
+
+    public String six(){
+        return "six";
+    }
 }
