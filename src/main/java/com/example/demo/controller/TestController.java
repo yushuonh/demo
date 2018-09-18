@@ -51,4 +51,8 @@ public class TestController {
     public String eight(){
         return "eight";
     }
+    
+    public String ten(){
+        return "";
+    }
 }
