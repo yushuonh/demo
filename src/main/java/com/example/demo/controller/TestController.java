@@ -47,4 +47,8 @@ public class TestController {
     public String Seven(){
         return "sd sd";
     }
+
+    public String eight(){
+        return "eight";
+    }
 }
